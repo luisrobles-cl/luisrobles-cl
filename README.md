@@ -1,3 +1,4 @@
+![https://unsplash.com/es/fotos/hpjSkU2UYSU]
 # BIENVENIDO
 
 ## Luis Robles Palacios
@@ -5,7 +6,7 @@
 * Contador Público Auditor
 * Diplomados IFRS | Gestión Contable | Gestión Tributaria | Ciencia de Datos para la gestión :
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on my career
 - 🌱 I’m currently learning Python | Javascript
 - 👯 I’m looking to collaborate on Finance and Python projects
 - 🤔 I’m looking for help with Python!
