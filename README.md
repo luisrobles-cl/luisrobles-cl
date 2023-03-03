@@ -1,4 +1,3 @@
-![https://unsplash.com/es/fotos/hpjSkU2UYSU]
 # BIENVENIDO
 
 ## Luis Robles Palacios
