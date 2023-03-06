@@ -10,4 +10,4 @@
 - 👯 I’m looking to collaborate on Finance and Python projects
 - 🤔 I’m looking for help with Python!
 - 📫 How to reach me: Linkedin: https://www.linkedin.com/in/luis-robles-cl/
-- ⚡ Fun fact: noob in all topics! LOL
+- ⚡ Fun fact: noob in all topics!
