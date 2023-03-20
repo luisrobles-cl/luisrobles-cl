@@ -7,7 +7,7 @@
 * Contador Público Auditor
 * Diplomados IFRS | Gestión Contable | Gestión Tributaria | Ciencia de Datos para la gestión
 
--
+---
 
 * Master in Business Administration (MBA), with mention in Economy and Finance
 * Audit Accountant
