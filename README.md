@@ -1,4 +1,4 @@
-# BIENVENIDO
+# BIENVENIDO | WELCOME
 
 ## *Luis Robles Palacios*
 *La Serena, Chile*
