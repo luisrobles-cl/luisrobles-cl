@@ -1,9 +1,11 @@
 # BIENVENIDO
 
-## Luis Robles Palacios
+## *Luis Robles Palacios*
+*La Serena, Chile*
+
 * Magister en Administración de Empresas (MBA), mención en Economía y Finanzas
 * Contador Público Auditor
-* Diplomados IFRS | Gestión Contable | Gestión Tributaria | Ciencia de Datos para la gestión :
+* Diplomados IFRS | Gestión Contable | Gestión Tributaria | Ciencia de Datos para la gestión
 
 <<<<<<< HEAD
 - 🔭 I’m currently working on my career
@@ -17,7 +19,7 @@
 
 * Master in Business Administration (MBA), with mention in Economy and Finance
 * Audit Accountant
-* Certificate in IFRS | Account management | Tax management | Data Science for management.
+* Certificate in IFRS | Account management | Tax management | Data Science for management
 
 - 🔭 I’m currently working on: my career
 - 🌱 I’m currently learning: Python | HTML | CSS | Javascript
